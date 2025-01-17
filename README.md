@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaxe-e
-- 👀 I’m interested in front end development, UI/UX, Software Engineering.
-- 😎 I'm currently enrolled in an Alx Cohort for Software Engineering.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 👀 I’m interested in Data Analysis.
+- 😎 I'm currently enrolled in an AltSchool Africa for Data Analysis.
+- 🌱 I’m currently learning Python, SQL and Power BI.
 - 💞️ I’m looking to collaborate on any real-life projects that will help me learn better.
 - 📫 You can reach me through my email: lydiajayi40@gmail.com or my twitter: @jaxe_e
 
